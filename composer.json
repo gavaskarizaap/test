@@ -1,0 +1,10 @@
+{
+    "require": {
+        "gufy/pdftohtml-php": "^2.0"
+    },
+    "config": {
+        "allow-plugins": {
+            "kylekatarnls/update-helper": false
+        }
+    }
+}

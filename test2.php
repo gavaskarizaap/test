@@ -1,4 +1,4 @@
 <?php
 
-echo "hitest2dsfsdf";
+echo "hitest2";
 ?>
